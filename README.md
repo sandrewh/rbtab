@@ -46,4 +46,8 @@ supports newlines within a cell:
 		[4,5,6],
 		[7,8]
 	]
+# Contact
+
+Andy Hanna
+andysah@gmail.com
 
